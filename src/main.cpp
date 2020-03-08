@@ -17,8 +17,11 @@ int main() {
         return 1;
     }
 
-    const vector<int> GROUPS = {1000, 10000, 100000, 1000000};
-    const int TIMES_EACH = 10;
+    vector<int> GROUPS;
+    for (int i = 5000; i <= 100000; i += 5000) {
+        GROUPS.push_back(i);
+    }
+    const int TIMES_EACH = 20;
 
     vector<int> results;
 
