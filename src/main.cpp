@@ -17,8 +17,8 @@ int main() {
         return 1;
     }
 
-    const vector<int> GROUPS = {10, 100, 1000, 10000, 100000, 1000000};
-    const int TIMES_EACH = 20;
+    const vector<int> GROUPS = {1000, 10000, 100000, 1000000};
+    const int TIMES_EACH = 10;
 
     vector<int> results;
 
