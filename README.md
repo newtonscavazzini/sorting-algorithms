@@ -9,17 +9,12 @@ Sorting Algorithms in C++
 
 Empirical Test in worst-case scenario.
 
-| Elements      | Time (ms)  |
-|--------------:|-----------:|
-| 10            | -          |
-| 100           | -          |
-| 1 000         | -          |
-| 10 000        | -          |
-| 100 000       | -          |
-| 1 000 000     | -          |
+![bubblesort-graph](/src/bubblesort/results/bubblesort-graph.png)
+
+[Dataset](/src/bubblesort/results/bubblesort-results.csv)
 
 #### Hardware and Software used:
-* **Processor:** ?
-* **Memory:** ?
-* **OS:** ?
+* **Processor:** Intel® Core™ i5-9400F CPU @ 2.90GHz ×6
+* **Memory:** 16GB
+* **OS:** Ubuntu 18.04.4 LTS (x64)
 * **Programming Language:** C++
