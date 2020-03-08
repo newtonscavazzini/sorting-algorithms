@@ -63,8 +63,8 @@ int main() {
         int avgResult = (double) sumResult / results.size();
 
         // Writing result to file
-        cout << n << ";" << avgResult << endl;
-        file << n << ";" << avgResult << endl;
+        cout << n << "," << avgResult << endl;
+        file << n << "," << avgResult << endl;
 
     }
 
