@@ -3,4 +3,5 @@ project(sorting_algorithms)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(sorting_algorithms src/main.cpp src/bubblesort/Bubblesort.cpp)
+add_executable(sorting_algorithms src/main.cpp src/bubblesort/Bubblesort.cpp
+        src/selectionsort/SelectionSort.cpp)
