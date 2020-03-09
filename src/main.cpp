@@ -18,7 +18,7 @@ int main() {
     }
 
     vector<int> GROUPS;
-    for (int i = 5000; i <= 100000; i += 5000) {
+    for (int i = 1000; i <= 100000; i += 1000) {
         GROUPS.push_back(i);
     }
     const int TIMES_EACH = 20;
