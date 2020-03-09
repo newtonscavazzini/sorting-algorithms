@@ -1,6 +1,9 @@
 # Sorting Algorithms
 Sorting Algorithms in C++
 
+- [Selection Sort](#selection-sort)
+- [Bubble Sort](#bubble-sort)
+
 ## Selection Sort
 
 #### Time Complexity: `O(n²)`
